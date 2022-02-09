@@ -8,6 +8,10 @@ categories: life-update
 This is just a test post at the moment im doing some research on this topic collecting some few data will be back with an article soon.
 
 **Bold**
+
 *ital*
-[yash singh]https://yashwastaken.xyz
+
+
+[yash singh](https://yashwastaken.xyz)
+
 ## Test
