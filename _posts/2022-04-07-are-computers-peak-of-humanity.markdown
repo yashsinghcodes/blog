@@ -42,7 +42,7 @@ This just me make me laugh.
 <br>
 Will pipernet ever gonna exist? Maybe.
 
-Imagine we all died from the next covid all that left are smartphones useless without any solar charger. The device held the information on the device that allowed you to breath underwater, a machine that pulls the water from air, a flying machine but all of this is runied when you need a wifi.
+Imagine we all died from the next covid all that left are smartphones useless without any solar charger. The device held the information on the device that allowed you to breath underwater, a machine that pulls the water from air, a flying machine but all of this is runied when you need a wifi to connect.
 
 ---
 
