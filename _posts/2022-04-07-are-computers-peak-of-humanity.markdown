@@ -10,7 +10,7 @@ The title is bit misleading and are just there to harvest more clicks over some 
 
 ---
 <br>
-I was reading about [Human genome]("https://en.wikipedia.org/wiki/Introduction_to_genetics") on wikipedia after watching a live stream on biology the guy was engineer but he was talking about a book which he was reading on Biology.
+I was reading about [Human genome]("https://en.wikipedia.org/wiki/Introduction_to_genetics") on wikipedia after watching a live stream on biology, the guy was engineer but he was talking about a book which he was reading on Biology.
 
 I found out that Human DNA is 6GB, I know right it blows my mind 6GB that is like nothing in todays world, it can be easily transferable over seconds from one network to other. The design of the human body is unreal and shows the beauty of the nature. Biology is beautiful. Biology is technology and most important Biology is not centralized.
 
