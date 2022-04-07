@@ -4,34 +4,32 @@ title: "Are Computers Peak Of Humanity"
 date: 2022-04-07 12:24:00 +0530
 categories: thoughts
 ---
+![manali apples](https://images.unsplash.com/photo-1635395423237-db99927379d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
-The title is bit misleading and are just there harvest more clicks over some fourms and bring my point to the Internet. The actually title should be What Will Be The Future Of Computing?
+The title is bit misleading and are just there to harvest more clicks over some fourms and bring my point to the Internet. The actually title should be "What Will Be The Future Of Computing?"
+
+---
+
+I was reading about [Human genome]("https://en.wikipedia.org/wiki/Introduction_to_genetics") on wikipedia after watching a live stream on biology the guy was engineer but he was talking about a book which he was reading on Biology.
+
+I found out that Human DNA is 6GB, I know right it blows my mind 6GB that is like nothing in todays world, it can be easily transferable over seconds from one network to other. The design of the human body is unreal and shows the beauty of the nature. Biology is beautiful. Biology is technology and most important Biology is not centralized.
 
 ---
 
 <br>
+Tomorrow i was talking to one of my friend over IRC and he told me how he and his father were on national exhibition for some marketing stuff(meeting potential clients for his ERP and exchanging business info) and then some random guy approached them and starts piching his company to them and what exactly does his company do convert CSV to Html yes that his there whole product and they are charging money for this. 
 
-I was reading about Human genome on wikipedia after watching a live stream on biology the guy was enigneer but he was talking about a book which he was reading on Biology.
-I found out that Human DNA is 6GB, I know right it blows my mind 6GB that is like nothing in our era and it can be traffered over secounds from one network to other. But this not it human body is designed which in my sense is unreal and most important 
-part is biology is not centralized.
-
-<br>
-
----
-
-<br>
-Tomorrow i was talking to one of my friend over IRC and he told me how he and his father were on national exhibition for some marketing stuff(meeting potential clients for his ERP and exchanging business info) and then some random guy approaches him and start piching his company to him and what exactly his company do convert CSV to Html yes that his there whole product and they are charging money for this. This just make 
-me sad and remind me of Ted Kaczynski quote from his book The Truth About Primitive 
-Life: A Critique of Anarchoprimitivism:
-
+This just make me sad and remind me of Ted Kaczynski quote from his book The Truth About Primitive Life: A Critique of Anarchoprimitivism:
 
 
 > History is made by active, determined minorities, not by the majority, which seldom has a clear and consistent idea of what it really wants.
 
 
-Are we actually moving forward was the web better before this companies came and started making you there product. I know there are people who are working to genuinely improve the technology. But in the end are we winning from the nature. 
+Are we actually moving forward was the web better before this companies came and started making you there product. I know there are people who are working to genuinely improve the technology. But in the end are we winning over the nature. 
 
-We won over nature when we created our computer faster and superior it took some time but we did it not by selling you some shitty products or by showing you ads but by actually thiking about how computers acutally works and how we can make it better then a human.
+
+We can win over nature if we acually works to make our techology better and faster which is going to take some time but we will do it at some point. This cannot be achieve by selling you some shitty products or by showing you some random ads or making the internet decentralized. This can only be achieve by learning how actually nature works and improving our technology over it.
+
 
 > the days of usenet, irc, the web...even email (w PGP)...were amazing. centralizing discovery and identity into corporations really damaged the internet.
 I realize I'm partially to blame, and regret it.
