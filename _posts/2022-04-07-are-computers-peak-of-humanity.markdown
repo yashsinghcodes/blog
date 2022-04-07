@@ -25,10 +25,10 @@ This just make me sad and remind me of Ted Kaczynski quote from his book The Tru
 > History is made by active, determined minorities, not by the majority, which seldom has a clear and consistent idea of what it really wants.
 
 
-Are we actually moving forward was the web better before this companies came and started making you there product. I know there are people who are working to genuinely improve the technology. But in the end are we winning over the nature. 
+Are we actually moving forward was the web better before this companies came and started making you there product.There are people who genuinely loves technology and working for free to imporve it .But in the end are we winning over the nature. 
 
 
-We can win over nature if we acually works to make our techology better and faster which is going to take some time but we will do it at some point. This cannot be achieve by selling you some shitty products or by showing you some random ads or making the internet decentralized. This can only be achieve by learning how actually nature works and improving our technology over it.
+We can only win over nature if we acually works to make our techology better and faster which is going to take some time but we will do it at some point. This cannot be achieve by selling you some shitty products or by showing you some random ads or making the internet decentralized. This can only be achieve by learning how actually nature works and improving our technology over it.
 
 
 > the days of usenet, irc, the web...even email (w PGP)...were amazing. centralizing discovery and identity into corporations really damaged the internet.
