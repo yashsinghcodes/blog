@@ -8,11 +8,15 @@ categories: thoughts
 The title is bit misleading and are just there harvest more clicks over some fourms and bring my point to the Internet. The actually title should be What Will Be The Future Of Computing?
 
 ---
+
 <br>
+
 I was reading about Human genome on wikipedia after watching a live stream on biology the guy was enigneer but he was talking about a book which he was reading on Biology.
 I found out that Human DNA is 6GB, I know right it blows my mind 6GB that is like nothing in our era and it can be traffered over secounds from one network to other. But this not it human body is designed which in my sense is unreal and most important 
 part is biology is not centralized.
+
 <br>
+
 ---
 
 <br>
@@ -29,9 +33,26 @@ Are we actually moving forward was the web better before this companies came and
 
 We won over nature when we created our computer faster and superior it took some time but we did it not by selling you some shitty products or by showing you ads but by actually thiking about how computers acutally works and how we can make it better then a human.
 
-[jack's twitter]('https://twitter.com/jack/status/1510314535671922689')
 > the days of usenet, irc, the web...even email (w PGP)...were amazing. centralizing discovery and identity into corporations really damaged the internet.
 I realize I'm partially to blame, and regret it.
 
 
 This just me make me laugh.
+
+---
+
+<br>
+Will pipernet ever gonna exist? Maybe.
+
+Imagine we all died from the next covid all that left are smartphones useless without any solar charger. The device held the information on the device that allowed you to breath underwater, a machine that pulls the water from air, a flying machine but all of this is runied when you need a wifi.
+
+<br>
+
+---
+
+<br>
+STOP BUILDING SHITTY TECHNOLOGY.
+
+If it centralizes power, it’s bad. If it decentralizes power, it’s good. Build technology that is inextricable from its narrative. Build technology that will give us freedom, not enslavement.
+
+One axis to consider. Does this centralize or decentralize power? The power itself is unstoppable. How we divide it is a choice.
