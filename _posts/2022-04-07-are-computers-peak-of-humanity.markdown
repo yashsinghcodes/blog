@@ -6,7 +6,7 @@ categories: thoughts
 ---
 ![manali apples](https://images.unsplash.com/photo-1635395423237-db99927379d8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
 
-The title is bit misleading and are just there to harvest more clicks over some fourms and bring my point to the Internet. The actually title should be "What Will Be The Future Of Computing?"
+The title is bit misleading and are just there to harvest more clicks over some forums and bring my point to the Internet. The actually title should be "What Will Be The Future Of Computing?"
 
 ---
 <br>
