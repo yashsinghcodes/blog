@@ -8,14 +8,14 @@ categories: thoughts
 The title is bit misleading and are just there harvest more clicks over some fourms and bring my point to the Internet. The actually title should be What Will Be The Future Of Computing?
 
 ---
-
+<br>
 I was reading about Human genome on wikipedia after watching a live stream on biology the guy was enigneer but he was talking about a book which he was reading on Biology.
 I found out that Human DNA is 6GB, I know right it blows my mind 6GB that is like nothing in our era and it can be traffered over secounds from one network to other. But this not it human body is designed which in my sense is unreal and most important 
 part is biology is not centralized.
-
+<br>
 ---
 
-
+<br>
 Tomorrow i was talking to one of my friend over IRC and he told me how he and his father were on national exhibition for some marketing stuff(meeting potential clients for his ERP and exchanging business info) and then some random guy approaches him and start piching his company to him and what exactly his company do convert CSV to Html yes that his there whole product and they are charging money for this. This just make 
 me sad and remind me of Ted Kaczynski quote from his book The Truth About Primitive 
 Life: A Critique of Anarchoprimitivism:
