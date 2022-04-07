@@ -10,11 +10,7 @@ The title is bit misleading and are just there to harvest more clicks over some 
 
 ---
 <br>
-<<<<<<< HEAD
-I was reading about [Human genome]("https://en.wikipedia.org/wiki/Introduction_to_genetics") on wikipedia after watching a live stream on biology the guy was engineer but he was talking about a book which he was reading on Biology.
-=======
 I was reading about [Human genome]("https://en.wikipedia.org/wiki/Introduction_to_genetics") on wikipedia after watching a live stream on biology, the guy was engineer but he was talking about a book which he was reading on Biology.
->>>>>>> 02cb344ddd0ca47758e3365373a87f9112c89f1b
 
 I found out that Human DNA is 6GB, I know right it blows my mind 6GB that is like nothing in todays world, it can be easily transferable over seconds from one network to other. The design of the human body is unreal and shows the beauty of the nature. Biology is beautiful. Biology is technology and most important Biology is not centralized.
 
@@ -57,7 +53,6 @@ STOP BUILDING SHITTY TECHNOLOGY.
 If it centralizes power, it’s bad. If it decentralizes power, it’s good. Build technology that is inextricable from its narrative. Build technology that will give us freedom, not enslavement.
 
 One axis to consider. Does this centralize or decentralize power? The power itself is unstoppable. How we divide it is a choice.
-<<<<<<< HEAD
 
 ---
 
@@ -83,4 +78,4 @@ Just reading and writing is not enough to be called litrate it about understandi
 
 Now back to my topic of technology I think most of the people who uses this products like CSV to HTML thing that i have already talked about are lyes under below middle class or middle class and this company loves to scam them over this things which you can find for free if you do some research.
 
-STOP SCAMMING PEOPLE OVER THE NAME OF CHANGING THE WORLD!
+STOP SCAMMING PEOPLE OVER THE NAME OF MAKING A WORLD A BETTER PLACE!
